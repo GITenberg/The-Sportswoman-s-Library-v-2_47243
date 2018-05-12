@@ -1,10 +1,14 @@
 _repo: The-Sportswoman-s-Library-v-2_47243
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Slaughter, Frances E.
       gutenberg_agent_id: '41182'
       url: http://www.gutenberg.org/2009/agents/41182
+covers:
+- cover_type: archival
+  image_path: 47243-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47243#The-Sportswoman-s-Library-v-2
 gutenberg_issued: '2014-10-30'
 gutenberg_type: Text
 identifiers:
